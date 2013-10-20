@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1350056629 source:c:\users\moni\documents\c++\estructura de datos\10 cancion\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string>
+	<conio.h>
+
+1350057235 c:\users\moni\documents\c++\estructura de datos\10 cancion\nodo.h
+
+1350060229 source:c:\users\moni\documents\itc!\3ro\estructura de datos\estructura de datos\10 cancion\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string>
+	<conio.h>
+
